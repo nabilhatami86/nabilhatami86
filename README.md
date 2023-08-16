@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @nabilhatami86
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Halo semua! 
 
-<!---
-nabilhatami86/nabilhatami86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Perkenalkan nama saya **Muhammad Nabil Hatmi**.\
+
+Saya seorang ** Mahasiswa ** di [Dicoding](https://www.dicoding.com/).\
+.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-nabil-hatami-2a13a8250/)ku ya.
+
