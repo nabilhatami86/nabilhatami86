@@ -7,16 +7,20 @@ I build websites and cloud computing solutions with a passion for innovative tec
 ---
 
 ### 💼 About Me
-- 🔭 Working as a freelance developer.
-- 🌱 Always learning **Cloud Computing** and **Backend Development**.
+- 🔭 I'm a **Fullstack Developer** working as a freelance developer.
+- 🌱 Always learning **Cloud Computing** and **Fullstack Development**.
 - 🛠️ Tech Stack:  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![GCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ---
 
@@ -30,14 +34,6 @@ I build websites and cloud computing solutions with a passion for innovative tec
 - ✈️ Love traveling and exploring new places.
 - 🎯 Coding challenges and tech meetups are my favorite hobbies.
 - ☕ Coffee enthusiast (helps me code through the night!).
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-nabil-hatami&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-nabil-hatami&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
